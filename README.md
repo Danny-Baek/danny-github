@@ -18,4 +18,4 @@
 
 # 토큰이코노미
 
-https://user-images.githubusercontent.com/31360600/47356759-e6ae7e80-d6ff-11e8-800b-2b5fc5d48116.png
+https://user-images.githubusercontent.com/31360600/47356867-3c832680-d700-11e8-82b3-8d8c2ec20175.png
