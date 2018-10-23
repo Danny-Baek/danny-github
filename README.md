@@ -18,6 +18,7 @@
 
 # 토큰이코노미
 
-![011](https://user-images.githubusercontent.com/31360600/47357483-c253a180-d701-11e8-84a4-5db28f3c2858.jpg)
+![011](https://user-images.githubusercontent.com/31360600/47357794-bae0c800-d702-11e8-890f-4c374d9a0ab8.png)
+
 
 
